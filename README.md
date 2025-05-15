@@ -2,7 +2,8 @@
 
 A customizable Flutter widget that renders dynamic **plexus-style particle animations** — animated nodes connected by lines — perfect for tech-inspired splash screens, loading backgrounds, and modern UI flair.
 
-![plexus_demo](https://github.com/govindavaramsrikanth/plexus_connect/blob/main/assets/plexus_demo.gif)
+![plexus_demo](https://raw.githubusercontent.com/govindavaramsrikanth/plexus_connect/main/assets/plexus_demo.gif
+)
 
 ---
 

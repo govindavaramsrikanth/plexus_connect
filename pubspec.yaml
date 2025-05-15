@@ -1,6 +1,6 @@
 name: plexus_connect
 description: "A customizable Flutter widget that renders dynamic plexus-style particle and line animations.   Ideal for animated backgrounds, splash screens, and interactive visual effects."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/govindavaramsrikanth/plexus_connect
 
 environment:

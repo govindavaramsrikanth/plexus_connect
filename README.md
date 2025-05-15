@@ -45,14 +45,15 @@ lineEndColor: Colors.purple, // Gradient end color for lines
 
 ## Additional information
 
-| Parameter         | Type     | Default        | Description                                     |
-| ----------------- | -------- | -------------- | ----------------------------------------------- |
-| `nodeCount`       | `int`    | `40`           | Number of nodes to animate                      |
-| `nodeRadius`      | `double` | `2.0`          | Size of each node                               |
-| `animationSpeed`  | `double` | `1.0`          | Speed at which nodes move                       |
-| `lineColor`       | `Color`  | `Colors.white` | Color of the connecting lines                   |
-| `backgroundColor` | `Color`  | `Colors.black` | Background fill color                           |
-| `maxLineDistance` | `double` | `100.0`        | Max distance between nodes to draw a connection |
+| Parameter               | Type     | Default         | Description                                     |
+|-------------------------|----------|-----------------|-------------------------------------------------|
+| `pointCount`            | `int`    | `40`            | Number of animated points                       |
+| `maxDistance`           | `double` | `150`           | Maximum distance for line connections           |
+| `animationSpeed`        | `double` | `2.0`           | Wave animation speed                            |
+| `allowTouchInteraction` | `bool`   | `true`          | Enable user touch interaction                   |
+| `pointColor`            | `Color`  | `Colors.white`  | Color of each point                             |
+| `lineStartColor`        | `Color`  | `Colors.black`  | Gradient start color for lines                  |
+| `lineEndColor`          | `Color`  | `Colors.purple` | Max distance between nodes to draw a connection |
 
 GitHub: github.com/govindavaramsrikanth/plexus_connect
 

@@ -8,8 +8,8 @@ A customizable Flutter widget that renders dynamic **plexus-style particle anima
 
 ## ✨ Features
 
-- 🎯 Customizable node count, size, color, and speed
-- 🔗 Dynamic line drawing between nearby nodes
+- 🎯 Customizable point count, size, color, and speed
+- 🔗 Dynamic line drawing between nearby points
 - 🎨 Control over background color and max connection distance
 - 📱 Responsive and efficient using `CustomPainter`
 - 🧩 Easy to embed into any widget tree
